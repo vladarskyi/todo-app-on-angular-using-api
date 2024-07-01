@@ -2,6 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.5.
 
+## Demo
+
+Check out the [DEMO](https://vladarskyi.github.io/todo-app-on-react-using-api/) to see it in action!
+
+## Features
+
+- Add new todos
+- Delete existing todos
+- Toggle the completed status of individual todos
+- Edit the title of a todo on double-click
+- Display loaders while waiting for API responses
+- Show notifications for API errors
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
